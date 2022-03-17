@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="items">
+    <file>Images/gggf.jpg</file>
+    <file>GIF/faceman.gif</file>
+    <file>GIF/02_gif.gif</file>
+    <file>GIF/waverazor2.gif</file>
+    <file>GIF/assis.gif</file>
+    <file>GIF/examplee.gif</file>
+    <file>Images/exit .png</file>
+    <file>Images/tuse1.png</file>
+    <file>Images/tuse1.png</file>
+    <file>Images/black.jpg</file>
+    <file>Images/exit .png</file>
+    <file>GIF/artificial_intelligence_product_rokid.gif</file>
+    <file>GIF/body.gif</file>
+    <file>GIF/dribbble2.gif</file>
+    <file>GIF/game.gif</file>
+    <file>GIF/hud_loading.gif</file>
+    <file>GIF/J59.gif</file>
+    <file>GIF/MetallicEarth.gif</file>
+    <file>GIF/T8bahf.gif</file>
+    <file>GIF/taksd.gif</file>
+    <file>GIF/tumblr_n2qagw1yDD1s32c21o1_500.gif</file>
+  </qresource>
+</RCC>
